@@ -1,0 +1,8 @@
+LIBRARY NvrMissingTextures
+EXPORTS
+    NvrPluginGetInfo
+    NvrPluginGetApiVersion
+    NvrPluginGetCapabilities
+    NvrPluginInitEx
+    NvrPluginInit
+    NvrPluginShutdown
